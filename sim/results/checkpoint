@@ -1,0 +1,6 @@
+model_checkpoint_path: "nn_model_ep_5400.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_5000.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_5100.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_5200.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_5300.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_5400.ckpt"
